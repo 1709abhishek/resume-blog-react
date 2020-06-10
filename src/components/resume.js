@@ -15,7 +15,7 @@ class Resume extends Component {
               <img
                 src="/abhishek-jain.JPG"
                 alt="avatar"
-                style={{ height: '300px', marginBottom: '-100px', marginRight: '150px' }}
+                style={{ height: '300px', marginBottom: '-100px', marginRight: '150px', marginTop: '30px' }}
               />
             </div>
 

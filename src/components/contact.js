@@ -14,7 +14,7 @@ class Contact extends Component {
               alt="avatar"
               style={{ height: '250px' }}
             />
-            <h4 style={{ width: '75%', margin: 'auto', paddingTop: '1em', color: 'black' }}>Feel Free to contact. Looking to expand my horizon in SDE field, excited for some great opportunities.</h4>
+            <h4 style={{ width: '75%', margin: 'auto', paddingTop: '1em', color: 'white' }}>Feel Free to contact. Looking to expand my horizon in SDE field, excited for some great opportunities.</h4>
 
           </Cell>
           <Cell col={6}>
@@ -24,7 +24,7 @@ class Contact extends Component {
             <div className="contact-list">
               <List>
                 <ListItem>
-                  <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
+                  <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton', color: 'white' }}>
                     <i className="fa fa-phone-square" aria-hidden="true" />
                     +91-7983368583
                   </ListItemContent>
@@ -33,14 +33,14 @@ class Contact extends Component {
 
 
                 <ListItem>
-                  <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
+                  <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton', color: 'white' }}>
                     <i className="fa fa-envelope" aria-hidden="true" />
                     1709abhishek@gmail.com
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton' }}>
+                  <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton', color: 'white' }}>
                     <i className="fa fa-skype" aria-hidden="true" />
                     1709abhishek
                   </ListItemContent>
