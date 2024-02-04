@@ -25,7 +25,7 @@ class Resume extends Component {
             <p style={{ color: 'white' }}>I am a Full Stack Developer. I like to explore new possibilities and designing is my cup of tea. Passionate about designing different systems and learning more technologies. Versatility is my strength.</p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%', color: 'white' }} />
             <h5 style={{ color: 'white' }}>Address</h5>
-            <p style={{ color: 'white' }}>Agra, Uttar Pradsh</p>
+            <p style={{ color: 'white' }}>Fort Wayne, Indiana</p>
             <h5 style={{ color: 'white' }}>Email</h5>
             <p style={{ color: 'white' }}>1709abhishek@gmail.com</p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
@@ -40,6 +40,13 @@ class Resume extends Component {
           <Cell className="resume-right-col" col={8}>
             <h2>Education</h2>
 
+            <Education
+              startYear={2023}
+              endYear={2025}
+              schoolName="Purdue University"
+              schoolDescription="Masters in Computer Science | Indiana"
+            />
+
 
             <Education
               startYear={2015}
@@ -51,6 +58,20 @@ class Resume extends Component {
 
 
             <h2>Experience</h2>
+
+            <Experience
+              startYear={2020}
+              endYear={2023}
+              jobName="Avalara | Software Engineer"
+              jobDescription="A full stack developer, worked in product engineering of beverage alcohol for Avalara, a client-facing portal for automating tax calculations, license generations, and other product shipment facilities."
+            />
+
+<Experience
+              startYear={2022}
+              endYear={2022}
+              jobName="Masai School | Industry Mentor"
+              jobDescription="Mentored and trained budding software engineers, whether backend, frontend, or full-stack. Helped them become industry ready."
+            />
 
             <Experience
               startYear={2019}
@@ -87,16 +108,28 @@ class Resume extends Component {
               progress={90}
             />
             <Skills
-              skill="Redux"
-              progress={50}
+              skill="Context API"
+              progress={90}
             />
             <Skills
               skill="MongoDB"
-              progress={70}
+              progress={80}
             />
             <Skills
               skill="SQL"
-              progress={60}
+              progress={80}
+            />
+            <Skills
+              skill="AWS"
+              progress={80}
+            />
+            <Skills
+              skill="Terraform"
+              progress={80}
+            />
+            <Skills
+              skill="Gitlab"
+              progress={90}
             />
 
 

@@ -14,7 +14,7 @@ class Contact extends Component {
               alt="avatar"
               style={{ height: '250px' }}
             />
-            <h4 style={{ width: '75%', margin: 'auto', paddingTop: '1em', color: 'white' }}>Feel Free to contact. Looking to expand my horizon in SDE field, excited for some great opportunities.</h4>
+            <h4 style={{ width: '75%', margin: 'auto', paddingTop: '1em', color: 'white' }}>Feel Free to contact. Looking to expand my horizon in SDE field, excited for some great summer intern 2024 opportunities.</h4>
 
           </Cell>
           <Cell col={6}>
@@ -26,7 +26,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{ fontSize: '30px', fontFamily: 'Anton', color: 'white' }}>
                     <i className="fa fa-phone-square" aria-hidden="true" />
-                    +91-7983368583
+                    +12604186186
                   </ListItemContent>
                 </ListItem>
 

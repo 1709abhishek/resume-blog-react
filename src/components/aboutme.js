@@ -11,8 +11,9 @@ class About extends Component {
 
           <h6 style={{ width: '75%', margin: 'auto', paddingTop: '1em', color: 'white' }}> I am a versatile, hard-working, software enthusiast who loves to code and design things inside out. Throughout my college years, I have worked in diverse software development stacks to keep myself updated in this fast-moving industry.
           Eager to work in a company where I can brush up my software development skills and create softwares from scratch to deploying them.
-          I love data structures and algorithms and i am proficient in other core computer science subjects also i.e. system design, operating systems and DBMS.
-          Thus, I am a developer with strong cs basics and can help software development teams with an all round performance.
+          I love data structures and algorithms and i am proficient in other core computer science subjects also i.e. system design, operating systems and DBMS. Previously I have worked in technologies like MERN, AWS, Terraform, Gitlab, JAVA-SpringBoot, PHP/LARAVEL etc.
+          Thus, I am a developer with strong cs basics and can help software development teams with an all round performance.<br/>
+          <a href="http://leetcode.com/1709abhishek"><h6 style={{ width: '75%', paddingTop: '0', color: 'white', marginLeft: '0' }}>My Leetcode</h6></a>
           </h6>
 
         </Cell>
