@@ -9,6 +9,9 @@ class Resume extends Component {
   render() {
     return (
       <div>
+        <h2><a href="https://drive.google.com/file/d/1aLzJyAVIWQfUKsj7NnkTBcEPZKrJSWht/view?usp=sharing" rel="noopener noreferrer" target="_blank">
+                  <i className="fa fa-file-text" aria-hidden="true" />
+                </a></h2>
         <Grid>
           <Cell col={4}>
             <div style={{ textAlign: 'center' }}>
