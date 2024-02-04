@@ -21,7 +21,7 @@ class Landing extends Component {
               <h1>Abhishek Jain</h1>
               <h1>Full Stack Web Developer</h1>
 
-              <p>HTML/CSS | Bootstrap | JavaScript | React/Redux | Firebase | NodeJS | Express | MongoDB</p>
+              <p>JAVA | Python | JavaScript | React/Redux/Context | Firebase | NodeJS | Express | MongoDB | AWS | Terraform | Git CI/CD | Spring | System Design</p>
 
               <div className="social-links">
 
